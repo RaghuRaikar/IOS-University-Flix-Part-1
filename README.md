@@ -8,6 +8,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## Flix Part 1
 
+
 ### User Stories
 `TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
@@ -21,9 +22,24 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://i.imgur.com/6XwrLXi.gif" width=250><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Notes
-Describe any challenges encountered while building the app.
+While creating the app I initially tested it using my iphone but then when I upgraded to IOS 16 I could no longer do that and had to use the simulators instead.
+
